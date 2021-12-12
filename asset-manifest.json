@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ajeya-website/static/css/main.de5a9225.chunk.css",
+    "main.js": "/ajeya-website/static/js/main.97f2de09.chunk.js",
+    "main.js.map": "/ajeya-website/static/js/main.97f2de09.chunk.js.map",
+    "runtime-main.js": "/ajeya-website/static/js/runtime-main.6b83f2c9.js",
+    "runtime-main.js.map": "/ajeya-website/static/js/runtime-main.6b83f2c9.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ajeya-website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5f6f3c50.chunk.js": "/ajeya-website/static/js/2.5f6f3c50.chunk.js",
+    "static/js/2.5f6f3c50.chunk.js.map": "/ajeya-website/static/js/2.5f6f3c50.chunk.js.map",
+    "static/js/3.1f17342d.chunk.js": "/ajeya-website/static/js/3.1f17342d.chunk.js",
+    "static/js/3.1f17342d.chunk.js.map": "/ajeya-website/static/js/3.1f17342d.chunk.js.map",
+    "index.html": "/ajeya-website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ajeya-website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.de5a9225.chunk.css.map": "/ajeya-website/static/css/main.de5a9225.chunk.css.map",
+    "static/js/2.5f6f3c50.chunk.js.LICENSE.txt": "/ajeya-website/static/js/2.5f6f3c50.chunk.js.LICENSE.txt",
+    "static/media/3.b647e45e.jpg": "/ajeya-website/static/media/3.b647e45e.jpg",
+    "static/media/4.cf1bfcf8.jpg": "/ajeya-website/static/media/4.cf1bfcf8.jpg",
+    "static/media/analysis.png": "/ajeya-website/static/media/analysis.03d85b7e.png",
+    "static/media/analysisimage.004af6d6.png": "/ajeya-website/static/media/analysisimage.004af6d6.png",
+    "static/media/SectionHP1css.css": "/ajeya-website/static/media/yl.f63861f0.gif",
+    "static/media/image5.f8fe248f.png": "/ajeya-website/static/media/image5.f8fe248f.png",
+    "static/media/mygifoncetrans.8bc3a30d.gif": "/ajeya-website/static/media/mygifoncetrans.8bc3a30d.gif",
+    "static/media/research.png": "/ajeya-website/static/media/research.652cecf5.png",
+    "static/media/seo.png": "/ajeya-website/static/media/seo.c0c231e7.png",
+    "static/media/service1.png": "/ajeya-website/static/media/service1.deb1971a.png",
+    "static/media/service2.png": "/ajeya-website/static/media/service2.4455054f.png",
+    "static/media/service3.png": "/ajeya-website/static/media/service3.04e21d42.png",
+    "static/media/service4.png": "/ajeya-website/static/media/service4.1e5893bb.png",
+    "static/media/service5.png": "/ajeya-website/static/media/service5.c0c231e7.png",
+    "static/media/service6.png": "/ajeya-website/static/media/service6.06e386fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b83f2c9.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5f6f3c50.chunk.js",
+    "static/css/main.de5a9225.chunk.css",
+    "static/js/main.97f2de09.chunk.js"
+  ]
+}
